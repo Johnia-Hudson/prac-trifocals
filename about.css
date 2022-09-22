@@ -1,0 +1,32 @@
+html {
+  background-color: #fff9f4;
+}
+h1 {
+  color: #191970;
+  font-family: monospace;
+  text-align: center;
+}
+h2 {
+  color: firebrick;
+}
+#mission-statement {
+  text-align: center;
+}
+p {
+  text-align: left;
+}
+
+nav {
+  
+  }
+li {
+  display: inline-block;
+  border: solid navy 10px;
+}
+h2 {
+  text-align: left;
+  
+}
+a:visited {
+  color: midnight;
+}
